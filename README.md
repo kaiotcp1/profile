@@ -32,5 +32,5 @@
 
 ##
 
-![Snake animation](https://github.com/kaiotcp1/kaiotcp1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kaiotcp1/profile/blob/output/github-contribution-grid-snake.svg)
 
