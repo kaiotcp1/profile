@@ -31,6 +31,3 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/kaiotcp1/profile/blob/output/github-contribution-grid-snake.svg)
-
