@@ -1,6 +1,4 @@
 ## <h1 align="center">Bem vindo ao meu github, meu nome é Kaio e sou estudante de TI.</h1>
-<i align="center" >Minha curiosidade por programação iniciou em 2013 aos meus 13 anos, quando me inscrevi para curso técnico de Web designer, onde tive contato com HTML, CSS, JS. Hoje em 2022 dei início na minha formação acadêmica em Engenharia de Software pela UNOPAR, com formatura prevista 2024/2025 se tudo ocorrer bem 😋 </i> 
-<div align="center">
 
 ##
 
