@@ -1,6 +1,5 @@
 ## <h1 align="center">Bem vindo ao meu github, meu nome é Kaio e sou estudante de TI.</h1>
-
-##
+<div align="center">
 
 <i align="center" >Este repositório tem propósito acadêmico  😉 </i> 
 <div align="center">
