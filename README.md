@@ -35,6 +35,9 @@
   <a href="https://instagram.com/hpkaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kaiotcp1@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hpkaio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.cloudskillsboost.google/public_profiles/556e9e32-a0d4-4d4a-b8d2-9a67ba27c8e1" target="_blank"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a> 
+
+  
   
   ![Snake animation](https://github.com/kaiotcp1/kaiotcp1/blob/output/github-contribution-grid-snake.svg)
 </div>
