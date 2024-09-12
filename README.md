@@ -15,15 +15,11 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=kaiotcp1&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiotcp1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img align="right" height="200" src="https://media.tenor.com/jrkxb7RQrsoAAAAi/jesus-jesus-saves.gif"  />
-
 </div>
 
 ##
 
 <h3 align="left">Tecnologias que utilizo</h3>
-<img align="right" height="200" src="https://media.tenor.com/jrkxb7RQrsoAAAAi/jesus-jesus-saves.gif"  />
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
