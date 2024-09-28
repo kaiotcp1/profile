@@ -1,23 +1,17 @@
+![naruto](https://github.com/user-attachments/assets/2df0ab89-3377-4756-9933-8d3cfe49d384)
+
 <h2 align="left">E aí, tudo bem? Seja bem-vindo! 👋</h2>
 <p align="left">✨ Meu nome é Kaio, estudante de Engenharia de Software. </p>
 <img align="right" height="200" src="https://media.tenor.com/jrkxb7RQrsoAAAAi/jesus-jesus-saves.gif"  />
 
-###
-
 <h2 align="left">Sobre mim</h2>
 
-###
-
 <p align="left">✨ Criando bugs desde 2020<br>📚 Atualmente estudando arquitetura de software e testes unitários<br>🎯 Metas: Falar inglês e fazer um tour pela Ásia<br>🎲 Curiosidade: Adoro teclado/piano e crio scripts para arma 3</p>
-
-##
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=kaiotcp1&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiotcp1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-##
 
 <h3 align="left">Tecnologias que utilizo</h3>
 <div align="left">
